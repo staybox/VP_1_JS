@@ -1,4 +1,4 @@
-## LoftSchool example project
+## Курсовой проект №1 (Другофильтр) LoftSchool
 
 ### Доступные команды
 
