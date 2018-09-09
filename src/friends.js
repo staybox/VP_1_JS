@@ -84,7 +84,7 @@ loadFriendsFromStorage();
 // загружать при обновлении страницы
 function loadFriendsFromStorage() {
     data = JSON.parse(storage.data || '[]');
-    // первым читаем всегда localStorage (здесь проверка не нужна???)
+    // первым читаем всегда localStorage
     renderFriends(data);
 }
 
